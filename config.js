@@ -88,7 +88,7 @@ const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
 const banmsglink = '*Vacilo aqui é só um, pega esse voo otaro🛫...*'
 // mensagem de ban no antilink
 
-const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
+const adminmsglink = 'Isso é um link amigo(a)... ah é tu é adm ent pode kkkk 🙃'
 // mensagem de quando adm manda link
 
 const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
