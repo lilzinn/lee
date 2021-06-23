@@ -1,7 +1,7 @@
 const ownerNumber = ["557388843631@s.whatsapp.net","559288234653@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '557388843631' 
 // mude para seu numero
 
 var gimagenotregister = false
@@ -21,7 +21,7 @@ const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
 
 const limitqnt = 9999
 
-const delayantispamcmd = 3
+const delayantispamcmd = 10
 //tempo de delay do antispamcmd (medido por segundos)
 
 const msgwelcomeimg = (numero, groupname) => {
@@ -143,7 +143,7 @@ const numbotfeio = 'senhora sua mãe 😡'
 
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
-    wait: '⌛ Aguarde um pouco... ⌛',
+    wait: '「 *AGUARDE* 」TOME UM SUQUINHO POR E CAFEZINHO...☕',
     success: '✔️ Sucesso! ✔️',
     error: {
         stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
