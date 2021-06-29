@@ -143,7 +143,7 @@ const numbotfeio = 'senhora sua mãe 😡'
 
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
-    wait: '「 *AGUARDE* 」TOME UM SUQUINHO POR E CAFEZINHO...☕',
+    wait: '「 *AGUARDE* 」TOME UM CAFEZINHO POR ENQUANTO...☕',
     success: '✔️ Sucesso! ✔️',
     error: {
         stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
