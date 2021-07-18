@@ -70,7 +70,7 @@ const prefix = '-'
 const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
 // mensagem quando alguem bloqueado solicita um comando
 
-const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫*'
+const blockedcmdmsg = '*Não tenho comandos para você usar😢*'
 // mensagem quando alguem solicita um comando bloqueado 
 
 // MENSAGENS DE BAN
