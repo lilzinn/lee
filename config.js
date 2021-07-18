@@ -70,7 +70,7 @@ const prefix = '-'
 const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
 // mensagem quando alguem bloqueado solicita um comando
 
-const blockedcmdmsg = '*Não tenho comandos para você usar😢*'
+const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫*'
 // mensagem quando alguem solicita um comando bloqueado 
 
 // MENSAGENS DE BAN
@@ -122,7 +122,7 @@ const textmsgnig = 'Konbanwa Onii-chan, espero que tenha tido um bom dia ☺️'
 const msgerr = 'Deu erro, tente novamente :/'
 // mensagem de erro
 
-const notregister = `*Não tenho comandos para você usar😢*`
+const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a lista de comandos*`
 
 // MENSAGENS DE AUTOREPLY
 
